@@ -1,0 +1,5 @@
+# Streamlit >= 1.37 is required for st.fragment(run_every=...), which drives the live updates.
+streamlit>=1.37
+plotly>=5.18
+pandas>=2.0
+numpy>=1.26
